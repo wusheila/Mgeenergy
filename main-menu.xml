@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root-menu>
+  <menu>
+    <Title>Home</Title>
+    <URL>index.htm</URL> />
+    <image></image>
+  </menu>
+  <menu>
+    <Title name ="Invest">Invest with Us</Title>
+    <URL>#</URL>
+    <image>css-images/nav-invest.jpg</image>
+    <subMenu>
+      <submenuItem>
+        <subTitle>Purchase Stock</subTitle>
+        <subURL>purchase-stock.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Performance</subTitle>
+        <subURL>performance.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Dividend</subTitle>
+        <subURL>dividends.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>SEC Reports</subTitle>
+        <subURL>sec-reports.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>FAQ&apos;s</subTitle>
+        <subURL>faqs.htm</subURL>
+      </submenuItem>
+    </subMenu>
+  </menu>
+  <menu>
+    <Title name="News" >News</Title>
+    <URL>#</URL>
+    <image>css-images/nav-news.jpg</image>
+    <subMenu>
+      <submenuItem>
+        <subTitle>About MGE Energy</subTitle>
+        <subURL>news/about.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>News &amp; Updates</subTitle>
+        <subURL>news/index.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Archives</subTitle>
+        <subURL>news/archives.htm</subURL>
+      </submenuItem>
+    </subMenu>
+  </menu>
+  <menu>
+    <Title>Shareholders</Title>
+    <URL>#</URL>
+    <image>css-images/nav-share.jpg</image>
+    <subMenu>
+      <submenuItem>
+        <subTitle>Shareholder Services</subTitle>
+        <subURL>shareholder-services.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Online Account Access</subTitle>
+        <subURL>online-account-access.htm</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Shareholder Login</subTitle>
+        <subURL>https://www.securitiesinterlink7.com/mge/SvltApplicationMain?arch=c&amp;entity=mge</subURL>
+      </submenuItem>
+      <submenuItem>
+        <subTitle>Resources</subTitle>
+        <subURL>resources.htm</subURL>
+      </submenuItem>
+    </subMenu>
+  </menu>
+  <menu>
+    <Title>Governance</Title>
+    <URL>governance.htm</URL> />
+    <image></image>
+  </menu>
+</root-menu>
